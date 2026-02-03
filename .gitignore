@@ -1,0 +1,19 @@
+# CMake
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+
+# CLion/IntelliJ IDEA
+.idea/
+
+# Compiled executables and object files
+*.o
+*.exe
+*.out
+main
+
+# macOS
+.DS_Store
